@@ -1,0 +1,6 @@
+C:\Users\Iulia13\Documents\Facultate - An 4\Predat\Sem 1\2020-2021\ACG\Lab2\Lab2 - OpenGL\Debug\ACG_Lab2.exe
+C:\Users\Iulia13\Documents\Facultate - An 4\Predat\Sem 1\2020-2021\ACG\Lab2\Lab2 - OpenGL\Debug\ACG_Lab2.pdb
+F:\Teaching\Sem1\ACG\Lab2\Lab2 - OpenGL\Debug\ACG_Lab2.exe
+F:\Teaching\Sem1\ACG\Lab2\Lab2 - OpenGL\Debug\ACG_Lab2.pdb
+D:\School\ECG\Lab 2\Debug\ACG_Lab2.exe
+D:\School\ECG\Lab 2\code\Debug\ACG_Lab2.exe
